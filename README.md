@@ -89,7 +89,7 @@ Analyzing DNS log files using Splunk SIEM enables security professionals to dete
 
 <p align="center">
 Launch the utility: <br/>
-<img src="C:\Users\frank\Downloads\Desktop  Shot with GeForce - Imgur.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uMwnZsQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  
