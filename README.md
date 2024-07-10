@@ -91,6 +91,7 @@ Analyzing DNS log files using Splunk SIEM enables security professionals to dete
 <img(https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/assets/165834615/55a10be2-2be2-4f5b-8016-fabfb9336349)
 <br />
 <br />
+<img(https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/assets/165834615/4b7e6c03-405a-4864-a1fb-5fd57c59fb52)
  
 
 Happy analyzing!
