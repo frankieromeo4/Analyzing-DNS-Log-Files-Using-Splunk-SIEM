@@ -88,12 +88,11 @@ index=* sourcetype=dns_sample fqdn="maliciousdomain.com"
 Analyzing DNS log files using Splunk SIEM enables security professionals to detect and respond to potential security incidents effectively. By understanding DNS activity and identifying anomalies, organizations can enhance their overall security posture and protect against various cyber threats.
 
 Here are a few screenshots of  the process!! <br />
-<p align="center">
-https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/assets/165834615/55a10be2-2be2-4f5b-8016-fabfb9336349
-<br />
-<br />
 
-https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/assets/165834615/4b7e6c03-405a-4864-a1fb-5fd57c59fb52
+![alt text](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/assets/165834615/55a10be2-2be2-4f5b-8016-fabfb9336349)
+
+![alt text](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/assets/165834615/4b7e6c03-405a-4864-a1fb-5fd57c59fb52)
+
  
 
 Happy analyzing!
